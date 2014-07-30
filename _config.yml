@@ -1,5 +1,5 @@
 name: Homepage 
-markdown: redcarpet
+markdown: kramdown
 url: http://ahmetcecen.github.io/
 description: A stylish blog using the Solarized color palette
 
