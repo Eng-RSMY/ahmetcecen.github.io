@@ -1,12 +1,12 @@
 ---
 layout: default
-title: MINED - Ahmet Cecen
+title: Presentations
 ---
 
 {% for post in paginator.posts %}
 
 	<article class="post">
-		{% if post.categories contains 'ppt' %}
+		{% if post.tags contains 'ppt' %}
 			{% if post.external-url %}
 				<h1>
 					<a href="{{ post.external-url }}">{{ post.title }}</a>

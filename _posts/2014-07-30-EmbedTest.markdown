@@ -5,5 +5,6 @@ embed: <iframe src="//www.slideshare.net/slideshow/embed_code/7248821" width="42
 
 date:   2014-07-30 04:06:25
 category: ppt
+tags: ppt
 ---
 Testing SlideShare Embed with embed layout.
