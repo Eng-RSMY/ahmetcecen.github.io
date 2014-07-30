@@ -1,8 +1,8 @@
-name: Homepage 
+name: Ahmet Cecen's Research Blog
 markdown: kramdown
 input: GFM
 url: http://ahmetcecen.github.io/
-description: A stylish blog using the Solarized color palette
+description: An attempt to track professional progress. 
 
 
 permalink: /:year/:month/:day/:title/
