@@ -1,8 +1,8 @@
-name: Ahmet Cecen's Research Blog
+name: A CSE Research Blog
 markdown: kramdown
 input: GFM
 url: http://ahmetcecen.github.io/
-description: An attempt to track professional progress. 
+description: An attempt to track and publish my research progress. 
 
 
 permalink: /:year/:month/:day/:title/
