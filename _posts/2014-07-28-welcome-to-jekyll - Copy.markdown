@@ -7,23 +7,15 @@ categories: jekyll update
 
 
 # Header 1 #
-## Header 2 ##
-### Header 3 ###
-#### Header 4 ####
-    for i =1:5
-		this is code
-	end
-> I will master this.
 
 **Bold**
 
 *Italian*
 
-[http://ahmetcecen.github.io/](http://ahmetcecen.github.io/)
+# Mid Header #
 
-- List 1
-- List 2
-- List 3
+[Hyperlink](http://ahmetcecen.github.io/)
+
 
 1. List 1
 2. List 2
@@ -35,12 +27,16 @@ Column1|Column2
 -----------|----------
 Nice|Functionality
 
-Highlighted Javascript
+{% highlight js %}
 
-```javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-```
+
+{% endhighlight %}
+
+{% gist 3327e38c1f2e767aa0cd %}
+
+
