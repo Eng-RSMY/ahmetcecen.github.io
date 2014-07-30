@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Trying Gist Integration - LOOCV Trick"
+date:   2014-07-29 19:06:25
+categories: main
+---
+
+{% gist 3327e38c1f2e767aa0cd LOOCVLinRegress.md %}
