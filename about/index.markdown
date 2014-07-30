@@ -8,7 +8,7 @@ title: About
 
 Clear and Concise Information:
 
-{% highlight ruby %}
+{% highlight matlab %}
 Ahmet Cecen
 Graduate Student @ Georgia Tech 
 Computational Science and Engineering
