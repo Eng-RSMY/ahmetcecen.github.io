@@ -5,5 +5,11 @@ date:   2014-07-29 19:06:25
 categories: main
 ---
 
-{% gist 3327e38c1f2e767aa0cd %}
+Using the Sherman-Morrison formula:
 
+```matlab
+function CV=LOOCVLinRegress(X,y)
+[Q,R] = qr(X,0);
+H=Q*Q';yhat=X*R\(Q'*R);
+CV=(y-yhat)./(1-diag(H));
+```
