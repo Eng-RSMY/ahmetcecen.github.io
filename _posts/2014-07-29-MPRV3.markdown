@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "Leave One Out Cross Validation Trick for Linear Regression with QR Factorization"
-date:   2014-07-29 19:06:25
+title:  "Multivariate Polynomial Regression V3"
+date:   2014-07-29 22:30:25
 categories: main
 ---
 
-Using the Sherman-Morrison formula:
+Isolated Repository for [Multivariate Polynomial Regression](http://ahmetcecen.github.io/MultiPolyRegressV3-MatlabCentral/)
 
-{% highlight matlab %}
-function CV=LOOCVLinRegress(X,y)
-[Q,R] = qr(X,0);
-H=Q*Q';yhat=X*R\(Q'*R);
-CV=(y-yhat)./(1-diag(H));
-{% endhighlight %}
+This is one of the codes that can have a much broader functionality than the specific area I usually work on. This will also serve as a test run before publishing more elaborate public repositories.
+
+[![Sample](http://ahmetcecen.github.io/images/MPRLOGO.png)](http://ahmetcecen.github.io/MultiPolyRegressV3-MatlabCentral/)
+
