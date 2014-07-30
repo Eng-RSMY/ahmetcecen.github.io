@@ -18,6 +18,10 @@ title: MINED - Ahmet Cecen
 
 		<div class="post-content">{{ post.content }}</div>
 		
+		{% if post.embed %}
+		{{ post.embed }}
+		{% endif %}
+		
 	</article>
 
 {% endfor %}

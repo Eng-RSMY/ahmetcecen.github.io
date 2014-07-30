@@ -3,6 +3,7 @@ layout: post
 title:  "Multivariate Polynomial Regression V3"
 date:   2014-07-29 22:30:25
 categories: main
+embed:
 ---
 
 Isolated Repository for [Multivariate Polynomial Regression](http://ahmetcecen.github.io/MultiPolyRegressV3-MatlabCentral/)
