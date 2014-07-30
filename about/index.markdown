@@ -8,7 +8,7 @@ title: About
 
 Clear and Concise Information:
 
-{% highlight %}
+{% highlight ruby %}
 Ahmet Cecen
 Graduate Student @ Georgia Tech 
 Computational Science and Engineering
