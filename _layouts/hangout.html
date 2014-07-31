@@ -14,6 +14,10 @@ layout: default
 
 	<div class="post-content">{{ content }}</div>
 	
+	{{ page.embed }}
+
+	<h1></h1>
+	
 	<script src="https://apis.google.com/js/platform.js"></script>
 	<div id="placeholder-div3"></div>
 	<script>
@@ -25,8 +29,6 @@ layout: default
 	  });
 	</script>
 	
-	{{ page.embed }}
-
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
 
 </article>
