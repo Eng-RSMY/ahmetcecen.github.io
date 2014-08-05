@@ -9,7 +9,7 @@ title: DeMux/Mux
 
 <p align="justify">"DeMultiplexing" is a term I adapted for the distribution of central information to multiple cloud storage/hosting channels. Tools listed here help centralize the task of uploading data to multiple services. The user can set predefined rules on how services will interact with each other so that they won't have to upload their data to different servers individually.</p>
 
-<a href="http://zapier.com/"><img src="/images/zapier-logomark-reversed.png" target="_blank" class="left" width="60" height="60"></a>
+<a href="http://zapier.com/"><img src="/images/zapier-logomark-reversed.png" target="_blank" class="left" width="55" height="55"></a>
 
 <p align="justify"><a href="http://zapier.com/" target="_blank">Zapier</a> is a service that facilitates and automates communication between quite a lot of apps. It is an update based service, so it will only work for <i>future</i> events. The general structure of a "zap" is as follows: If a <b>something</b> happens at <b>App A</b>, do <b>something</b>at <b>App B</b>, <i>with or without</i> importing information from <b>App A</b>.</p>
 
