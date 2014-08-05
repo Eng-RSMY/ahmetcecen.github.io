@@ -13,10 +13,10 @@ title: DeMux/Mux
 
 <p align="justify"><a href="http://zapier.com/" target="_blank">Zapier</a> is a service that facilitates and automates communication between quite a lot of apps. It is an update based service, so it will only work for <i>future</i> events. The general structure of a "zap" is as follows: If <b>something</b> happens at <b>App A</b>, do <b>something</b> at <b>App B</b>, <i>with or without</i> importing information from <b>App A</b>.</p>
 
-<a href="http://http://wappwolf.com/"><img src="/images/wappwolf_logo.jpg" align="left" target="_blank" width="55" height="55"></a>
+<a href="http://http://wappwolf.com/"><img src="/images/wappwolf_logo.jpg" class="left" target="_blank" width="50" height="50"></a>
 
-<p align="justify"><a href="http://http://wappwolf.com/" target="_blank">Wappwolf</a> is a service that synchronizes or transfers data between multiple storage services. It can be used to create a unified interface for all of the services that store the users data. The user can upload different sections of their data to different pre-programmed folders in a single app, each of which will synchronize with other apps automatically. 
-_____
-<a href="http://http://wappwolf.com/"><img src="/images/wappwolf_logo.jpg" align="left" target="_blank" width="65" height="65"></a>
+<p align="justify"><a href="http://wappwolf.com/" target="_blank">Wappwolf</a> is a service that synchronizes or transfers data between multiple storage services. It can be used to create a unified interface for all of the services that store the users data. The user can upload different sections of their data to different pre-programmed folders in a single app, each of which will synchronize with other apps automatically. 
 
-<p align="justify"><a href="http://http://wappwolf.com/" target="_blank">Feedity</a> is a service that synchronizes or transfers data between multiple storage services. It can be used to create a unified interface for all of the services that store the users data. The user can upload different sections of their data to different pre-programmed folders in a single app, each of which will synchronize with other apps automatically. 
+<a href="http://http://feedity.com/"><img src="/images/feedity.jpg" class="left" target="_blank" width="50" height="50"></a>
+
+<p align="justify"><a href="http://feedity.com/" target="_blank">Feedity</a> is a tool to create RSS feeds of regularly updated websites that do not provide their own feeds. The quality of service is average and many features require a paid subscription, but this app stands out for having a particularly easy to use visual interface for the html challenged users.   
