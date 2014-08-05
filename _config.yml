@@ -1,12 +1,12 @@
-name:  Ahmet Cecen's Research - MINED@Gatech
+name:  Ahmet Cecen's Research MINED@Gatech
 markdown: kramdown
 input: GFM
 url: http://ahmetcecen.github.io/
-description: by Ahmet Cecen. An attempt to track and publish my research progress. 
+description: An attempt to track and publish my research progress as a PHD student. 
 
 
 permalink: /:year/:month/:day/:title/
-paginate: 5
+paginate: 8
 pygments: true
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
