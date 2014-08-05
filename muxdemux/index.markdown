@@ -9,14 +9,14 @@ title: DeMux/Mux
 
 <p align="justify">"DeMultiplexing" is a term I adapted for the distribution of central information to multiple cloud storage/hosting channels. Tools listed here help centralize the task of uploading data to multiple services. The user can set predefined rules on how services will interact with each other so that they won't have to upload their data to different servers individually.</p>
 
-<a href="http://zapier.com/"><img src="/images/zapier-logomark-reversed.png" target="_blank" class="left" width="70" height="70"></a>
+<a href="http://zapier.com/"><img src="/images/zapier-logomark-reversed.png" target="_blank" class="left" width="60" height="60"></a>
 
 <p align="justify"><a href="http://zapier.com/" target="_blank">Zapier</a> is a service that facilitates and automates communication between quite a lot of apps. It is an update based service, so it will only work for <i>future</i> events. The general structure of a "zap" is as follows: If a <b>something</b> happens at <b>App A</b>, do <b>something</b>at <b>App B</b>, <i>with or without</i> importing information from <b>App A</b>.</p>
 
-<a href="http://http://wappwolf.com/"><img src="/images/wappwolf_logo.jpg" align="left" target="_blank" width="70" height="70"></a>
+<a href="http://http://wappwolf.com/"><img src="/images/wappwolf_logo.jpg" align="left" target="_blank" width="55" height="55"></a>
 
 <p align="justify"><a href="http://http://wappwolf.com/" target="_blank">Wappwolf</a> is a service that synchronizes or transfers data between multiple storage services. It can be used to create a unified interface for all of the services that store the users data. The user can upload different sections of their data to different pre-programmed folders in a single app, each of which will synchronize with other apps automatically. 
 _____
-<a href="http://http://wappwolf.com/"><img src="/images/wappwolf_logo.jpg" class="left" target="_blank" width="70" height="70"></a>
+<a href="http://http://wappwolf.com/"><img src="/images/wappwolf_logo.jpg" class="left" target="_blank" width="65" height="65"></a>
 
 <p align="justify"><a href="http://http://wappwolf.com/" target="_blank">Feedity</a> is a service that synchronizes or transfers data between multiple storage services. It can be used to create a unified interface for all of the services that store the users data. The user can upload different sections of their data to different pre-programmed folders in a single app, each of which will synchronize with other apps automatically. 
