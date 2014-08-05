@@ -4,32 +4,32 @@ html, body {
 }
 
 a, a:visited, a:active {
-	color: #C59353;
+	color: #EEB211;
 	border-color: #073642;
 }
 
 a:hover {
 	background-color: #073642;
 	border-color: #073642;
-	color: #C59353;
+	color: #EEB211;
 }
 
 h1, h2, h3 {
-	color: #EEB211;
+	color: #C59353;
 }
 
 h1 a, h1 a:visited, h1 a:active {
-	color: #EEB211;
+	color: #C59353;
 }
 
 h1 a:hover {
 	background-color: #073642;
 	border-color: #073642;
-	color: #EEB211;
+	color: #C59353;
 }
 
 article h1 a.anchor {
-	color: #C59353;
+	color: #EEB211;
 }
 
 blockquote {
@@ -37,7 +37,7 @@ blockquote {
 }
 
 #sidebar a:hover {
-	color: #C59353;
+	color: #EEB211;
 	background-color: #073642;
 }
 
