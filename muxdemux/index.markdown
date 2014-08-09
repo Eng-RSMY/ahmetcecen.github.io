@@ -20,6 +20,14 @@ title: DeMux/Mux
 
 <a href="http://feedity.com/" target="_blank"><img src="/images/feedity.png" class="left" width="50" height="50"></a>
 
-<p align="justify"><a href="http://feedity.com/" target="_blank">Feedity</a> is a tool to create RSS feeds of regularly updated websites that do not provide their own feeds. The quality of service is average and many features require a paid subscription, but this app stands out for having a particularly easy to use visual interface for the html challenged users. 
+<p align="justify"><a href="http://feedity.com/" target="_blank">Feedity</a> is a tool to create RSS feeds of regularly updated websites that do not provide their own feeds. The quality of service is average and many features require a paid subscription, but this app stands out for having a particularly easy to use visual interface for the html challenged users.</p>
 
 <h2>Mux Coming Soon</h2> 
+
+<a href="http://feedity.com/" target="_blank"><img src="/images/slideshare_logo.png" class="left" width="50" height="50"></a>
+
+<p align="justify"><a href="http://feedity.com/" target="_blank">Feedity</a> is a tool to create RSS feeds of regularly updated websites that do not provide their own feeds. The quality of service is average and many features require a paid subscription, but this app stands out for having a particularly easy to use visual interface for the html challenged users.</p> 
+
+<a href="http://feedity.com/" target="_blank"><img src="/images/dropbox-windows-8.png" class="left" width="50" height="50"></a>
+
+<p align="justify"><a href="http://feedity.com/" target="_blank">Feedity</a> is a tool to create RSS feeds of regularly updated websites that do not provide their own feeds. The quality of service is average and many features require a paid subscription, but this app stands out for having a particularly easy to use visual interface for the html challenged users.</p> 
