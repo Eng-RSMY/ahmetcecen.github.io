@@ -43,3 +43,15 @@ title: DeMux/Mux
 <a href="http://feedity.com/" target="_blank"><img src="/images/github_logo.png" class="left" width="50" height="50"></a>
 
 <p align="justify"><a href="http://feedity.com/" target="_blank">GitHub</a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec nulla dictum, hendrerit justo at, varius magna. Nullam pharetra hendrerit eros et sollicitudin. Quisque vehicula sem erat, sed semper quam dapibus id. In pulvinar at orci quis condimentum. Sed imperdiet at arcu lacinia ultrices. In lobortis consequat vestibulum.</p> 
+
+<a href="http://feedity.com/" target="_blank"><img src="/images/google-hangouts-logo.png" class="left" width="50" height="50"></a>
+
+<p align="justify"><a href="http://feedity.com/" target="_blank">Google Hangouts</a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec nulla dictum, hendrerit justo at, varius magna. Nullam pharetra hendrerit eros et sollicitudin. Quisque vehicula sem erat, sed semper quam dapibus id. In pulvinar at orci quis condimentum. Sed imperdiet at arcu lacinia ultrices. In lobortis consequat vestibulum.</p> 
+
+<a href="http://feedity.com/" target="_blank"><img src="/images/onedrive_logo.png" class="left" width="50" height="50"></a>
+
+<p align="justify"><a href="http://feedity.com/" target="_blank">OneDrive</a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec nulla dictum, hendrerit justo at, varius magna. Nullam pharetra hendrerit eros et sollicitudin. Quisque vehicula sem erat, sed semper quam dapibus id. In pulvinar at orci quis condimentum. Sed imperdiet at arcu lacinia ultrices. In lobortis consequat vestibulum.</p> 
+
+<a href="http://feedity.com/" target="_blank"><img src="/images/office_logo.jpg" class="left" width="50" height="50"></a>
+
+<p align="justify"><a href="http://feedity.com/" target="_blank">Office 365</a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec nulla dictum, hendrerit justo at, varius magna. Nullam pharetra hendrerit eros et sollicitudin. Quisque vehicula sem erat, sed semper quam dapibus id. In pulvinar at orci quis condimentum. Sed imperdiet at arcu lacinia ultrices. In lobortis consequat vestibulum.</p> 
