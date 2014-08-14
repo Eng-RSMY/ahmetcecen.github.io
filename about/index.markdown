@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 title: About
 ---
 
@@ -18,4 +18,3 @@ Cell: +12675864505
 Skype: +16787015869 (ahmetcecen)
 {% endhighlight %}
 
-<object data=http://scholar.google.com/citations?user=OWGKu6wAAAAJ&hl=en width=”1000″ height=”1000″> <embed src=http://scholar.google.com/citations?user=OWGKu6wAAAAJ&hl=en width=”1000″ height=”1000″> </embed></object>
