@@ -6,7 +6,7 @@ title: DeMux/Mux
 
 <p align="justify">This section is intended to provide a quick review of useful services for streamlining how the average user interacts with cloud based services. The overall idea is to be able to "demux" centralized data in a computer to multiple cloud services with minimal effort, then to be able to "mux" and access all of the data from multiple servers from a centralized online location such as a personal web page.</p>
 
-<p align="justify">"DeMultiplexing" is a term I adapted for the distribution of central information to multiple cloud storage/hosting channels. Tools listed here help centralize the task of uploading data to multiple services. The user can set predefined rules on how services will interact with each other so that they won't have to upload their data to different servers individually.</p>
+<p align="justify"> Services listed here help centralize the task of uploading data to multiple services. The user can set predefined rules on how services will interact with each other so that they won't have to upload their data to different servers individually.</p>
 
 <a href="http://zapier.com/" target="_blank"><img src="/images/zapier-logomark-reversed.png" class="left" width="50" height="50"></a>
 
