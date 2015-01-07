@@ -5,9 +5,9 @@ date:   2014-07-29 22:30:25
 categories: main
 ---
 
-Isolated Repository for [Multivariate Polynomial Regression](http://ahmetcecen.github.io/MultiPolyRegressV3-MatlabCentral/)
+Isolated Repository for [Multivariate Polynomial Regression](http://ahmetcecen.github.io/MultiPolyRegress-MatlabCentral/)
 
 This is one of the codes that can have a much broader functionality than the specific area I usually work on. This will also serve as a test run before publishing more elaborate public repositories.
 
-[![Sample](http://ahmetcecen.github.io/images/MPRLOGO.png)](http://ahmetcecen.github.io/MultiPolyRegressV3-MatlabCentral/)
+[![Sample](http://ahmetcecen.github.io/images/MPRLOGO.png)](http://ahmetcecen.github.io/MultiPolyRegress-MatlabCentral/)
 
