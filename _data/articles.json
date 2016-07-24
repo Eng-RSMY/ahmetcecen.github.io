@@ -1,0 +1,92 @@
+[
+  {
+    "Authors": "Ali Khosravani, Ahmet Cecen, Surya Kalidindi",
+    "Title": "Development of High Throughput Assays for Establishing Process-Structure-Property Linkages in Multiphase Polycrystalline Metals: Application to Dual-Phase Steels",
+    "Publication": "Acta Materialia",
+    "Volume": "In Press",
+    "Number": "",
+    "Pages": "",
+    "Year": 2016,
+    "Publisher": "Elsevier"
+  },
+  {
+    "Authors": "Surya R. Kalidindi , David B. Brough , Shengyen Li , Ahmet Cecen , Aleksandr L. Blekh , Faical Yannick P. Congo , and Carelyn Campbell",
+    "Title": "Role of materials data science and informatics in accelerated materials innovation",
+    "Publication": "MRS Bulletin",
+    "Volume": "In Press",
+    "Number": "",
+    "Pages": "",
+    "Year": 2016,
+    "Publisher": "Materials Research Society"
+  },
+  {
+    "Authors": "Cecen, Ahmet; Fast, Tony; Kalidindi, Surya R;",
+    "Title": "Versatile algorithms for the computation of 2-point spatial correlations in quantifying material structure",
+    "Publication": "Integrating Materials and Manufacturing Innovation",
+    "Volume": 5,
+    "Number": 1,
+    "Pages": 1,
+    "Year": 2016,
+    "Publisher": "Springer Berlin Heidelberg"
+  },
+  {
+    "Authors": "Gupta, Akash; Cecen, Ahmet; Goyal, Sharad; Singh, Amarendra K; Kalidindi, Surya R;",
+    "Title": "Structure–property linkages using a data science approach: Application to a non-metallic inclusion/steel composite system",
+    "Publication": "Acta Materialia",
+    "Volume": 91,
+    "Number": "",
+    "Pages": "239-254",
+    "Year": 2015,
+    "Publisher": "Pergamon"
+  },
+  {
+    "Authors": "Agrawal, Ankit; Deshpande, Parijat D; Cecen, Ahmet; Basavarsu, Gautham P; Choudhary, Alok N; Kalidindi, Surya R;",
+    "Title": "Exploration of data science techniques to predict fatigue strength of steel from composition and processing parameters",
+    "Publication": "Integrating Materials and Manufacturing Innovation",
+    "Volume": 3,
+    "Number": 1,
+    "Pages": "1-19",
+    "Year": 2014,
+    "Publisher": "Springer Berlin Heidelberg"
+  },
+  {
+    "Authors": "CeCen, A; Fast, T; Kumbur, EC; Kalidindi, SR;",
+    "Title": "A data-driven approach to establishing microstructure–property relationships in porous transport layers of polymer electrolyte fuel cells",
+    "Publication": "Journal of Power Sources",
+    "Volume": 245,
+    "Number": "",
+    "Pages": "144-153",
+    "Year": 2014,
+    "Publisher": "Elsevier"
+  },
+  {
+    "Authors": "Wargo, EA; Schulz, VP; Cecen, A; Kalidindi, SR; Kumbur, EC;",
+    "Title": "Resolving macro-and micro-porous layer interaction in polymer electrolyte fuel cells using focused ion beam and X-ray computed tomography",
+    "Publication": "Electrochimica Acta",
+    "Volume": 87,
+    "Number": "",
+    "Pages": "201-212",
+    "Year": 2013,
+    "Publisher": "Pergamon"
+  },
+  {
+    "Authors": "Cecen, A; Wargo, EA; Hanna, AC; Turner, DM; Kalidindi, SR; Kumbur, EC;",
+    "Title": "3-D microstructure analysis of fuel cell materials: spatial distributions of tortuosity, void size and diffusivity",
+    "Publication": "Journal of The Electrochemical Society",
+    "Volume": 159,
+    "Number": 3,
+    "Pages": "B299-B307",
+    "Year": 2012,
+    "Publisher": "The Electrochemical Society"
+  },
+  {
+    "Authors": "Wargo, EA; Hanna, AC; Cecen, A; Kalidindi, SR; Kumbur, EC;",
+    "Title": "Selection of representative volume elements for pore-scale analysis of transport in fuel cell materials",
+    "Publication": "Journal of Power Sources",
+    "Volume": 197,
+    "Number": "",
+    "Pages": "168-179",
+    "Year": 2012,
+    "Publisher": "Elsevier"
+  }
+]
