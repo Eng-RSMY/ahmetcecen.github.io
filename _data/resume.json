@@ -6,7 +6,7 @@
     "email": "ahmetcecen@gmail.com",
     "phone": "(267) 586-4505",
     "website": "http://ahmetcecen.github.io/",
-    "summary": "<i>Versatile programmer looking for a full time position around Summer/Fall 2017. Uncanny ability and enthusiasm to assimilate, adapt and build on existing code and concepts in pretty much any language and project that piques my interest.</i> <br> Currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology. I have been doing research and heavily programming in the fields of computational materials science and materials informatics for the past 7 years. My current research focus is on leveraging statistical analysis and machine learning tools to solve big data analytics problems in materials science. ",
+    "summary": "<i>Versatile programmer looking for a full time position around Summer/Fall 2017. Uncanny ability and enthusiasm to assimilate, adapt and build on existing code and concepts in pretty much any language and project.</i> <br> Currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology. I have been doing research and heavily programming in the fields of computational materials science and materials informatics for the past 7 years. My current research focus is on leveraging statistical analysis and machine learning tools to solve big data analytics problems in materials science. ",
     "location": {
       "address": "500 10th Street NW",
       "postalCode": "GA 30332",
@@ -110,11 +110,11 @@
     "summary": "Awarded for novel use of accessible digital data to advance Materials Science and Engineering knowledge to accelerate the transition to industrial applications."
   }],
   "skills": [{
-    "name": "Machine Learning & Data Analysis",
+    "name": "Mach. Learn. & Data Anlys.",
     "keywords": [
       "MATLAB",
       "R",
-      "Scikit- Learn",
+      "scikit",
 	  "Orange"
     ],
 	"level": [
@@ -127,7 +127,7 @@
   {
     "name": "Web Development",
     "keywords": [
-      "JavaScript",
+      "JS",
       "Jekyll",
       "Python",
 	  "Ruby"
@@ -140,22 +140,9 @@
     ]
   },
   {
-    "name": "Database Design and Management",
-    "keywords": [
-      "HDF5",
-      "MongoDB",
-      "SQL"
-    ],
-	"level": [
-      "80",
-      "70",
-      "70"
-    ]
-  },  
-  {
     "name": "Deployment & Automation",
     "keywords": [
-      "Batch Script",
+      "Batch",
       "Docker",
       "Arduino",
 	  "Labview"
@@ -168,11 +155,24 @@
     ]
   },  
   {
+    "name": "Database Systems",
+    "keywords": [
+      "SQL",
+      "Mongo",
+      "HDF5"
+    ],
+	"level": [
+      "75",
+      "75",
+      "75"
+    ]
+  },  
+  {
     "name": "HPC & Big Data",
     "keywords": [
       "C++",
-      "Scala",
-      "Spark"
+      "Spark",
+      "Scala"
     ],
 	"level": [
       "50",
@@ -217,8 +217,8 @@
     "name": "Audio/Visual Editing and Polishing",
     "keywords": [
       "Photoshop",
-      "Audition",
-	  "Premiere Pro"
+	  "Premiere Pro",
+      "Audition"
     ]
 },
 

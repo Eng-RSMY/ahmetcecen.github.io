@@ -24,6 +24,11 @@ ul.topnav li a:hover {background-color: #901616;}
 
 ul.topnav li.icon {display: none;}
 
+ul.topnav li.printme {
+	position: absolute; 
+	right: 0px;
+}
+
 @media screen and (max-width:680px) {
   ul.topnav li:not(:first-child) {display: none;}
   ul.topnav li.icon {
@@ -47,6 +52,9 @@ ul.topnav li.icon {display: none;}
     display: block;
     text-align: left;
   }
+  ul.topnav li.printme {
+	position: inherit; 
+  }
 }
 </style>
 
@@ -55,15 +63,11 @@ ul.topnav li.icon {display: none;}
 <ul class="topnav" id="myTopnav">
   <li><a class="active" href="/">Home</a></li>
   <li><a href="https://ahmetcecen.github.io/blog/">Blog</a></li>
+  <li class= "printme"><a href="https://ahmetcecen.github.io/print/">Printable View</a></li>
   <li class="icon">
     <a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a>
   </li>
 </ul>
-
-<div class="print-show" style="display:none;">
-<h1> For the complete version with project examples and links, please visit my website. </h1>
-<br>
-</div>
 
 <script>
 function myFunction() {

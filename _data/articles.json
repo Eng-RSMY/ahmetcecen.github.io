@@ -30,16 +30,6 @@
     "Publisher": "Springer Berlin Heidelberg"
   },
   {
-    "Authors": "Gupta, Akash; Cecen, Ahmet; Goyal, Sharad; Singh, Amarendra K; Kalidindi, Surya R;",
-    "Title": "Structure–property linkages using a data science approach: Application to a non-metallic inclusion/steel composite system",
-    "Publication": "Acta Materialia",
-    "Volume": 91,
-    "Number": "",
-    "Pages": "239-254",
-    "Year": 2015,
-    "Publisher": "Pergamon"
-  },
-  {
     "Authors": "Agrawal, Ankit; Deshpande, Parijat D; Cecen, Ahmet; Basavarsu, Gautham P; Choudhary, Alok N; Kalidindi, Surya R;",
     "Title": "Exploration of data science techniques to predict fatigue strength of steel from composition and processing parameters",
     "Publication": "Integrating Materials and Manufacturing Innovation",
@@ -48,6 +38,16 @@
     "Pages": "1-19",
     "Year": 2014,
     "Publisher": "Springer Berlin Heidelberg"
+  },
+  {
+    "Authors": "Gupta, Akash; Cecen, Ahmet; Goyal, Sharad; Singh, Amarendra K; Kalidindi, Surya R;",
+    "Title": "Structure–property linkages using a data science approach: Application to a non-metallic inclusion/steel composite system",
+    "Publication": "Acta Materialia",
+    "Volume": 91,
+    "Number": "",
+    "Pages": "239-254",
+    "Year": 2015,
+    "Publisher": "Pergamon"
   },
   {
     "Authors": "CeCen, A; Fast, T; Kumbur, EC; Kalidindi, SR;",
