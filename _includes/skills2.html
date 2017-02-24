@@ -1,91 +1,166 @@
 <!-- SKILLS -->
+
+<style>
+
+span.keyworditem{
+    background-color: rgba(156, 156, 156, 0.47) !important;
+    padding: 2px;
+	padding-left: 3px;
+    margin: 2px;
+	margin-bottom: 5px;
+    color: #000 !important;
+	text-align: center;
+	font-weight: bold;
+}
+
+p.keywordheader{
+	margin-bottom: 5px;
+}
+
+.topic-item{
+	padding: 2px 15px !important;
+	color: #000 !important;
+}
+
+.topic-item:after{
+  top: 6px !important;
+ }
+
+</style>
+
+
 <script src="/js/progressbar.min.js"></script>
 <!--div class="box" onclick="return toggleMeClass('skilldetails');"-->
 <div class="box">
 <h2><i class="fa fa-tasks ico"></i> Toolsets </h2>
+
+<div class="col-xs-7 skills clearfix">
 {% assign countx = 0 %}
-{% for subject in site.data.resume.skills limit:3 %}
-<div class="col-xs-3 skills clearfix">
+{% for subject in site.data.resume2.skills limit:2 %}
+<div class="col-xs-12 skills clearfix">
+
   <div class="item-skills">
 	  {{subject.name}}
   </div>
-  <div class="clearfix skilldetails"> <!--style="display: none;"-->
   
+   <div class="clearfix skilldetails"> <!--style="display: none;"-->
+	
+	<ul class="list-group" style= "margin-bottom: 7px">
+    {% assign county = 0 %}
+	{% for keyword in subject.topics %}
+	
+				
+				<li class="topic-item list-group-item"> {{keyword}} </li>
+				
+	
+	{% assign county = county | plus:1 %}
+	{% endfor %}
+	</ul>
+	
+  </div>
+  
+  <div class="clearfix skilldetails" style="
+    margin-bottom: 5px;"> <!--style="display: none;"-->
+	
     {% assign county = 0 %}
 	{% for keyword in subject.keywords %}
-	
-	<b><div id="skill{{countx}}{{county}}" style="width: 68px; margin: 2px; float: left; text-align:center"></div></b>
-
-	<script>
-
-	// progressbar.js@1.0.0 version is used
-	// Docs: http://progressbarjs.readthedocs.org/en/1.0.0/
-
-	var bar{{countx}}{{county}} = new ProgressBar.SemiCircle(skill{{countx}}{{county}}, {
-	  strokeWidth: 10,
-	  easing: 'easeInOut',
-	  duration: 0,
-	  color: 'rgb(167, 17, 17)',
-	  trailColor: '#ff9999',
-	  trailWidth: 10,
-	  svgStyle: null
-	});
-
-	bar{{countx}}{{county}}.set({{subject.level[county]  | times:0.01}});  // Number from 0.0 to 1.0
-
-	bar{{countx}}{{county}}.setText('{{keyword}}');
-	bar{{countx}}{{county}}.text.style.fontFamily = '"Raleway", Helvetica, sans-serif';
-	bar{{countx}}{{county}}.text.style.fontSize = '1.1em';
-	bar{{countx}}{{county}}.text.style.color = '#000000';
-
-	</script>
-		
+		<span class="keyworditem">
+		{{keyword}} <!-- {{subject.level[county]  | times:0.01}}-->
+		</span>
 	{% assign county = county | plus:1 %}
 	{% endfor %}
+	
   </div>
 </div>
 {% assign countx = countx | plus:1 %}
 {% endfor %}
-{% for subject in site.data.resume.skills limit:2 offset:3 %}
-<div class="col-xs-3 skills clearfix" style="position: relative;top: -23px;">
+</div>
+
+<div class="col-xs-5 skills clearfix">
+{% assign countx = 0 %}
+{% for subject in site.data.resume2.skills offset:2 limit:2 %}
+<div class="col-xs-12 skills clearfix">
+
   <div class="item-skills">
 	  {{subject.name}}
   </div>
-  <div class="clearfix skilldetails"> <!--style="display: none;"-->
   
-    {% assign county = 0 %}
-	{% for keyword in subject.keywords limit:2 %}
+   <div class="clearfix skilldetails"> <!--style="display: none;"-->
 	
-	<b><div id="skill{{countx}}{{county}}" style="width: 68px; margin: 2px; float: left; text-align:center"></div></b>
-
-	<script>
-
-	// progressbar.js@1.0.0 version is used
-	// Docs: http://progressbarjs.readthedocs.org/en/1.0.0/
-
-	var bar{{countx}}{{county}} = new ProgressBar.SemiCircle(skill{{countx}}{{county}}, {
-	  strokeWidth: 10,
-	  easing: 'easeInOut',
-	  duration: 0,
-	  color: 'rgb(167, 17, 17)',
-	  trailColor: '#ff9999',
-	  trailWidth: 10,
-	  svgStyle: null
-	});
-
-	bar{{countx}}{{county}}.set({{subject.level[county]  | times:0.01}});  // Number from 0.0 to 1.0
-
-	bar{{countx}}{{county}}.setText('{{keyword}}');
-	bar{{countx}}{{county}}.text.style.fontFamily = '"Raleway", Helvetica, sans-serif';
-	bar{{countx}}{{county}}.text.style.fontSize = '1.1em';
-	bar{{countx}}{{county}}.text.style.color = '#000000';
-
-	</script>
-		
+	<ul class="list-group" style= "margin-bottom: 7px">
+    {% assign county = 0 %}
+	{% for keyword in subject.topics %}
+	
+				
+				<li class="topic-item list-group-item"> {{keyword}} </li>
+				
+	
 	{% assign county = county | plus:1 %}
 	{% endfor %}
+	</ul>
+	
+  </div>
+  
+  <div class="clearfix skilldetails" style="
+    margin-bottom: 5px;"> <!--style="display: none;"-->
+	
+    {% assign county = 0 %}
+	{% for keyword in subject.keywords %}
+		<span class="keyworditem">
+		{{keyword}} <!-- {{subject.level[county]  | times:0.01}}-->
+		</span>
+	{% assign county = county | plus:1 %}
+	{% endfor %}
+	
   </div>
 </div>
 {% assign countx = countx | plus:1 %}
 {% endfor %}
+</div>
+
+<!--
+<div class="col-xs-12 skills clearfix">
+{% assign countx = 0 %}
+{% for subject in site.data.resume2.skills offset:4 limit:1 %}
+<div class="col-xs-12 skills clearfix">
+
+  <div class="item-skills">
+	  {{subject.name}}
+  </div>
+  
+   <div class="clearfix skilldetails"> 
+	
+	<ul class="list-group" style= "margin-bottom: 7px">
+    {% assign county = 0 %}
+	{% for keyword in subject.topics %}
+	
+				
+				<li class="topic-item list-group-item"> {{keyword}} </li>
+				
+	
+	{% assign county = county | plus:1 %}
+	{% endfor %}
+	</ul>
+	
+  </div>
+  
+  <div class="clearfix skilldetails" style="
+    margin-bottom: 5px;"> 
+	
+    {% assign county = 0 %}
+	{% for keyword in subject.keywords %}
+		<span class="keyworditem">
+		{{keyword}}
+		</span>
+	{% assign county = county | plus:1 %}
+	{% endfor %}
+	
+  </div>
+</div>
+{% assign countx = countx | plus:1 %}
+{% endfor %}
+</div>
+-->
+
+
 </div>

@@ -1,0 +1,38 @@
+[
+  {
+    "Authors": "Ahmet Cecen, Hanjun Dai, Yuksel C. Yabansu, Surya R. Kalidindi, and Le Song",
+    "Title": "Efficient and Accurate Materials Structure-Property Linkages using 3D Convolutional Neural Networks",
+    "Publication": "KDD2017 - <i>Submitted</i>",
+    "Year": 2017,
+  },
+  {
+    "Authors": "Surya R. Kalidindi , David B. Brough , Shengyen Li , Ahmet Cecen , Aleksandr L. Blekh , Faical Yannick P. Congo , and Carelyn Campbell",
+    "Title": "Role of materials data science and informatics in accelerated materials innovation",
+    "Publication": "MRS Bulletin",
+    "Volume": "In Press",
+    "Number": "",
+    "Pages": "",
+    "Year": 2016,
+    "Publisher": "Materials Research Society"
+  },
+  {
+    "Authors": "Cecen, Ahmet; Fast, Tony; Kalidindi, Surya R;",
+    "Title": "Versatile algorithms for the computation of 2-point spatial correlations in quantifying material structure",
+    "Publication": "Integrating Materials and Manufacturing Innovation",
+    "Volume": 5,
+    "Number": 1,
+    "Pages": 1,
+    "Year": 2016,
+    "Publisher": "Springer Berlin Heidelberg"
+  },
+  {
+    "Authors": "Agrawal, Ankit; Deshpande, Parijat D; Cecen, Ahmet; Basavarsu, Gautham P; Choudhary, Alok N; Kalidindi, Surya R;",
+    "Title": "Exploration of data science techniques to predict fatigue strength of steel from composition and processing parameters",
+    "Publication": "Integrating Materials and Manufacturing Innovation",
+    "Volume": 3,
+    "Number": 1,
+    "Pages": "1-19",
+    "Year": 2014,
+    "Publisher": "Springer Berlin Heidelberg"
+  }
+]

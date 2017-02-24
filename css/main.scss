@@ -382,6 +382,7 @@ a[href]:after {
 #education {
   margin: 0;
   margin-bottom: -20px;
+  padding-top: 5px;
 }
 #awards:before,
 #education:before {
@@ -391,7 +392,9 @@ a[href]:after {
 #awards .description,
 #education .description,
 .job .details {
-  border: 1px solid #eee;
+  width:100%;
+  padding: 2px;
+  margin-bottom: 0px;
 }
 
 .item-skills{
@@ -401,12 +404,9 @@ a[href]:after {
 }
 
 .skilldetails{
-    padding-right: 15px;
-    padding-left: 15px;
 }
 
 .skills{
-  text-align:center;
     padding-right: 0px;
     padding-left: 0px;
 }
@@ -415,7 +415,7 @@ a[href]:after {
 .publication .panel-heading,
 .publication .name{
   margin: 0;
-  padding: 0 5px;
+  padding: 0 0px;
   border: none;
 }
 .publication .panel-body {
