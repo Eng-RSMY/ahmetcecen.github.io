@@ -23,7 +23,7 @@
 	{"title": "Interactive Spatial Statistics Demo",
 	"fronturl": "https://ahmetcecen.shinyapps.io/MatInfDemo/",
 	"desc": "Online demo written in R using Shiny framework. ",
-	"logo": "http://ahmetcecen.github.io/images/StatsDemo.PNG",
+	"logo": "http://ahmetcecen.github.io/images/StatsDemo.png",
 	"keywords": ["R", "HTML/CSS"] },
 	
 	{"title": "Image Correlation for Large Data",
